@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class MiServicio {
 	// llamaremos este metodo para inyectarlo
 public String operacion() {
-	return"esta operacion es imprtante";
+	return"esta operacion es importante";
 }
 }
